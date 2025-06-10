@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Tredence
 =======
 ### **Updated Feasibility Analysis and Ranking**
@@ -95,4 +95,4 @@
 4. **Skip F2:** Due to the lack of specialized hardware.
 
 Let me know if you need help setting up any of these features on Azure!
->>>>>>> 5e51131 (Initial commit)
+
