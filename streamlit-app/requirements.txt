@@ -1,0 +1,15 @@
+streamlit
+azure-cognitiveservices-vision-face
+azure-cognitiveservices-speech
+azure-ai-textanalytics
+azure-cosmos
+streamlit-aggrid
+numpy
+pandas
+scikit-learn
+networkx
+librosa
+opencv-python
+huggingface-hub
+matplotlib
+seaborn
